@@ -1,1 +1,1 @@
-<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">EuroDolarConversor</string></resources>
+<resources><string name="euros">Valor en euros</string><string name="dolares">Valor en dólares</string></resources>

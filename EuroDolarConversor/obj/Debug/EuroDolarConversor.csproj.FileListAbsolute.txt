@@ -23,3 +23,4 @@ C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\obj\Debug\res\v
 C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\obj\Debug\res\drawable\icon.png
 C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\obj\Debug\R.cs.flag
 C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\obj\Debug\uploadflags.txt
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\obj\Debug\res\values\mvxbindingattributes.xml
