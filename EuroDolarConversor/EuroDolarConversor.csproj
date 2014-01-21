@@ -91,6 +91,8 @@
     <Compile Include="Core\Interface\IEuroDolarConversor.cs" />
     <Compile Include="Core\EuroDolarConversor.cs" />
     <Compile Include="Core\ViewModel\EuroDolarConversor.cs" />
+    <Compile Include="Core\App.cs" />
+    <Compile Include="SetUp.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
