@@ -13,7 +13,7 @@ using EuroDolarConversor.Core.Interface;
 
 namespace EuroDolarConversor.Core.ViewModel
 {
-	class EuroDolarConversor: MvxViewModel
+	public class EuroDolarConversor: MvxViewModel
 	{
 
 		private IEuroDolarConversor _conversor;

@@ -5,22 +5,27 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Cirrious.MvvmCross.Droid.Views;
 
 namespace EuroDolarConversor
 {
 	[Activity (Label = "EuroDolarConversor", MainLauncher = true)]
-	public class MainActivity : Activity
+	public class MainActivity : MvxActivity
 	{
-		int count = 1;
 
-		protected override void OnCreate (Bundle bundle)
+		public new Core.ViewModel.EuroDolarConversor ViewModel
 		{
-			base.OnCreate (bundle);
+			get { return (Core.ViewModel.EuroDolarConversor) base.ViewModel; }
+			set { base.ViewModel = value; }
+		}
 
-			// Set our view from the "main" layout resource
-			SetContentView (Resource.Layout.Main);
+		protected override void OnViewModelSet()
+		{
+			base.OnViewModelSet();
+			SetContentView(Resource.Layout.Main);
 
 		}
+
 	}
 }
 

@@ -11,7 +11,7 @@ using Android.Widget;
 
 namespace EuroDolarConversor.Core.Interface
 {
-	interface IEuroDolarConversor
+	public interface IEuroDolarConversor
 	{
 
 		double toEuro ( double dolar_value );
