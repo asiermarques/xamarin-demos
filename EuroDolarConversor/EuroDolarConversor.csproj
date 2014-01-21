@@ -90,6 +90,7 @@
     <Compile Include="Bootstrap\JsonPluginBootstrap.cs" />
     <Compile Include="Core\Interface\IEuroDolarConversor.cs" />
     <Compile Include="Core\EuroDolarConversor.cs" />
+    <Compile Include="Core\ViewModel\EuroDolarConversor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -107,6 +108,6 @@
   <ItemGroup>
     <Folder Include="Core\" />
     <Folder Include="Core\Interface\" />
-    <Folder Include="Core\ModelView\" />
+    <Folder Include="Core\ViewModel\" />
   </ItemGroup>
 </Project>
