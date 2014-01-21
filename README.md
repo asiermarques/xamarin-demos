@@ -1,4 +1,4 @@
 xamarin-demos
 =============
 
-Demos of my talks about Xamarin
+Source code from my talks about Xamarin
