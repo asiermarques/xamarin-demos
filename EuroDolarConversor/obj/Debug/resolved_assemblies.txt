@@ -1,0 +1,10 @@
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\bin\Debug\EuroDolarConversor.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.CrossCore.3.0.14\lib\MonoAndroid\Cirrious.CrossCore.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.CrossCore.3.0.14\lib\MonoAndroid\Cirrious.CrossCore.Droid.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.CrossCore.3.0.14\lib\MonoAndroid\Cirrious.MvvmCross.Binding.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.CrossCore.3.0.14\lib\MonoAndroid\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.14\lib\MonoAndroid\Cirrious.MvvmCross.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.14\lib\MonoAndroid\Cirrious.MvvmCross.Droid.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.CrossCore.3.0.14\lib\MonoAndroid\Cirrious.MvvmCross.Localization.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.Plugin.Json.3.0.14\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Users\Asier\Documents\GitHub\xamarin-demos\EuroDolarConversor\packages\MvvmCross.HotTuna.Plugin.Json.3.0.14\lib\MonoAndroid\Newtonsoft.Json.dll
